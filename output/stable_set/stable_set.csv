@@ -1,0 +1,4 @@
+rule,size,capped
+hebb,13,False
+oja,60,True
+oja (bez diagonali),60,True
